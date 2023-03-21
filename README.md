@@ -1,6 +1,6 @@
 ## Bem vindo(a) ao meu perfil no github! ☺️
 
-### OLá! Sou Brenda Rayane <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="12px">
+### OLá! Sou Brenda Rayane <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 
 
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-rss)
