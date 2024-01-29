@@ -7,7 +7,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenda.rayane.0018@gmail.com)
 
 ![Brenda GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendaRSS&show_icons=true&theme=tokyonight_private=true)
-
+<div align="left">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaRSS)](https://github.com/BrendaRSS/github-readme-stats)
+  
+ </div>
 ## Tecnologias
 
 <div style="display: inline_block">
