@@ -2,6 +2,9 @@
 
 ### OLá! Sou Brenda Rayane <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 
+> Desenvolvedora Full Stack com experiência prática no desenvolvimento de sistemas completos, atuando em front-end e back-end. Minha trajetória inclui projetos práticos e desafiadores, realizados durante cursos intensivos e experiências profissionais, onde desenvolvi componentes reutilizáveis e documentados em Storybook e gerenciei o design system, assegurando consistência e qualidade na experiência do usuário. Sou formada em Biotecnologia pela UFPB e, atualmente, sou mestranda e aluna bolsista na área de Ciência de Dados e Inteligência Artificial. Sigo evoluindo 1% todo dia, agregando conhecimentos especilamente em aprendizado de máquina e manipulação de dados.
+
+
 
 [![Youtube](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brenda-rss)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brenda.rayane.0018@gmail.com)
