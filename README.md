@@ -12,6 +12,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrendaRSS)](https://github.com/BrendaRSS/github-readme-stats)
   
  </div>
+ 
 ## Tecnologias
 
 <div style="display: inline_block">
